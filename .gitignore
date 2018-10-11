@@ -23,4 +23,12 @@ coverage
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
 dist/
-
+.env
+seeds/
+dataGeneration/reviews/
+dataGeneration/users/
+dataGeneration/restaurants/
+newrelic.js
+artillery/review50.csv
+artillery/reviewId.csv
+artillery/reviewId2.csv
